@@ -57,12 +57,4 @@ The objective of this task is to build a strong foundation in core cyber securit
 - Improved awareness of how attackers exploit systems
 - Preparedness for basic cyber security interview questions 
 
----
 
-## 🧑‍💻 Author
-**[DILIP.M]**  
-Cyber Security Intern  
-
----
-
-🔐 *Cyber security is not just a skill — it’s a responsibility.*
